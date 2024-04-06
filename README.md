@@ -11,7 +11,7 @@ As an electrical engineer with a four-year diploma, I specialize in IoT and elec
 * 🧠  I'm learning Circuit Desing
 * 🤝  I'm open to collaborating on IOT Projects
 * ⚡  I'm Batman, don't tell anyone
-  
+
 <a href="https://www.github.com/mahbubzone" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mahbubzone?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/mahbubzone" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mahbubzone?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -36,8 +36,6 @@ src="https://img.shields.io/twitter/follow/mahbubzone?logo=twitter&style=for-the
 <a href="http://www.github.com/mahbubzone"><img src="https://github-readme-stats.vercel.app/api?username=mahbubzone&show_icons=true&hide=stars,prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mahbubzone's GitHub stats" /></a>
 
 <a href="http://www.github.com/mahbubzone"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahbubzone&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/mahbubzone" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahbubzone&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
