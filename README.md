@@ -12,7 +12,8 @@ As an electrical engineer with a four-year diploma, I specialize in IoT and elec
 * 🤝  I'm open to collaborating on IOT Projects
 * ⚡  I'm Batman, don't tell anyone
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahbubzone" alt="mahbubzone" /></a> </p>
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mahbubzone&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 
 <a href="https://www.github.com/mahbubzone" target="_blank" rel="noreferrer"><img
